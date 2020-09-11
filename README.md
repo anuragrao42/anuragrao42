@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <h2> Hey there! I'm Anurag.</h2>
 

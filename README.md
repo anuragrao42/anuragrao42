@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Electrical Engineering  at Indian Institute Of Technology, Goa.
-- 🌱 &nbsp; Learning more about Frontend Web Development,  Machine Learning.
+- 🌱 &nbsp; Learning more about Frontend Web Development,  Mobile App Development.
 - ✍️ &nbsp; Pursuing Cycling, listening to debates & interviews as hobbies.
 
 <h3>🛠 Tech Stack</h3>

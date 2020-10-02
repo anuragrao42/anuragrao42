@@ -13,7 +13,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | NodeJs
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | React Native | NodeJs
 - 🛢 &nbsp; Firebase | MongoDb
 - 🔧 &nbsp; Git 
 - 🖥 &nbsp; Python, Machine Learning

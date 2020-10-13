@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently working on Ecommerce-Clothing Store project using React
+
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Electrical Engineering  at Indian Institute Of Technology, Goa.

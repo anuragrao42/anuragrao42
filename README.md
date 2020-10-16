@@ -8,15 +8,15 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Electrical Engineering  at Indian Institute Of Technology, Goa.
-- 🌱 &nbsp; Learning more about Frontend Web Development,  Mobile App Development.
+- 🌱 &nbsp; Learning more about  Web Development,  Mobile App Development.
 - ✍️ &nbsp; Pursuing Cycling, listening to debates & interviews as hobbies.
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | React Native | NodeJs
+- 🌐 &nbsp; HTML & CSS | SASS | JavaScript | Redux | ReactJS | React Native | NodeJs
 - 🛢 &nbsp; Firebase | MongoDb
 - 🔧 &nbsp; Git 
-- 🖥 &nbsp; Python, Machine Learning
+
 
 <br/>
 
